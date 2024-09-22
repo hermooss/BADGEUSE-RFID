@@ -8,9 +8,9 @@
 
 // Paramètres Adafruit IO
 #define AIO_SERVER      "io.adafruit.com"
-#define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "kogab76422"
-#define AIO_KEY         "aio_TvwZ45eLhdBxYRBvzvOEt5Ai6Qyy"
+#define AIO_SERVERPORT  4444
+#define AIO_USERNAME    "XXXXXXXX"
+#define AIO_KEY         "XXXXXXXXX"
 
 // Création d'un client WiFi pour se connecter au serveur MQTT
 WiFiClient client;
